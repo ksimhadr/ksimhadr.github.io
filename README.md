@@ -15,9 +15,9 @@ I'm a passionate and results-driven **Test/Product Development Engineer** with 1
 
 ### ⚙️ Core Technical Skills
 
-- **Test Platforms**: Teradyne J750 (IGXL), Advantest 93K, ETS800, T2K, Teradyne IP750 (Imaging)  
+- **Test Platforms**: Teradyne J750 (IGXL), Advantest 93K, ETS800, Teradyne IP750 (Imaging)  
 - **Languages**: C++, Python, VBA, LabVIEW, Perl  
-- **Tools**: JIRA, Git/SVN, Confluence,  
+- **Tools**: JIRA, Git/SVN, Confluence, NI Multisim, PSpice, OrCAD, Gerb-V and Cadence Allegro PCB Viewer, Test Insight  
 - **ATE Domains**: Digital (SCAN, JTAG, IDDQ), Mixed Signal (LDOs, ADC, Bandgap), Protocols (I2C, JTAG), Imaging/Optical, Analog & mixed Signal  
 - **AI/ML Interests**: Computer Vision, Audio Pre-processing, Test Data Analysis, ML-driven Optimization
 
